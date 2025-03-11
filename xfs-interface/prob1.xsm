@@ -1,0 +1,4 @@
+MOV R0,#0
+Loop:
+ADDI R0,#1
+PORT P1,R0
